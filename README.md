@@ -29,4 +29,10 @@ The documentation for these APIs can be found via the following links:
 ## Conculsion
 Personal Finance Planner
 
-using our Personal Finance Planner we can create a portfolio of crypto currency and stock share and find the value of a specific date. and determine the Savings Health of the family, for example, if a house hold monthly_income = 12000, after buying 1.2 btc and 5.3 eth and 200 egg shares and 50 spy shares, on 2021-06-22, their portfoilo is worth 
+using our Personal Finance Planner we can create a portfolio of crypto currency and stock share and find the value of a specific date. and determine the Savings Health of the family, for example, if a house hold monthly_income = 12000, after buying 1.2 btc and 5.3 eth and 200 egg shares and 50 spy shares, on 2021-06-22, their portfoilo is worth crypto = 50309.018. shares = 44175.000. doing pretty well.
+
+Retirement Planning
+
+we used monte carlo simulation to create and test a retirement plan with initial investment of 20,000. the expected portfolio return in dollars at the 95% lower and upper confidence intervals between 408819.07 dollars and 2751159.01 dollars
+
+the expected portfolio return at the 95% lower and upper confidence intervals based on a 50% increase in the initial investment is between 613228.6 dollars and 4126738.52 dollars.
